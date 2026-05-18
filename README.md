@@ -33,9 +33,3 @@ The repository contains source code and libraries that can be used for various w
 - ESP32 Board Package
 - Required PS3 Controller Libraries
 
-## Installation
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/ESP32-DualShock3.git
